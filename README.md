@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Kailash Patel, and I'm a Tech Entrepreneur and Innovator, from India.</p>
+<p align="left">My name is Kailash Patel, and I'm an AI & ML enthusiast from India.</p>
 
 ###
 
